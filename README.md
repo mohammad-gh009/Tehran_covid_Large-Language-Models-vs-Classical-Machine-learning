@@ -1,2 +1,2 @@
-# ehran_covid_Large Language Models vs Classical Machine learning
+# Tehran_covid_Large Language Models vs Classical Machine learning
  
